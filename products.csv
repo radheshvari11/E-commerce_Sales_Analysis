@@ -1,0 +1,81 @@
+product_id,product_name,category,price
+PROD0001,Wireless Headphones,Electronics,220.67
+PROD0002,Smart Watch,Electronics,110.0
+PROD0003,Bluetooth Speaker,Electronics,63.0
+PROD0004,USB-C Hub,Electronics,33.39
+PROD0005,Webcam,Electronics,143.11
+PROD0006,Mechanical Keyboard,Electronics,151.5
+PROD0007,Gaming Mouse,Electronics,109.76
+PROD0008,Portable Monitor,Electronics,144.34
+PROD0009,Phone Case,Electronics,22.66
+PROD0010,Tablet Stand,Electronics,16.34
+PROD0011,T-Shirt,Clothing,18.75
+PROD0012,Jeans,Clothing,65.37
+PROD0013,Sneakers,Clothing,42.92
+PROD0014,Winter Jacket,Clothing,87.84
+PROD0015,Summer Dress,Clothing,67.24
+PROD0016,Hoodie,Clothing,57.25
+PROD0017,Running Shorts,Clothing,23.82
+PROD0018,Ankle Socks,Clothing,13.84
+PROD0019,Cap,Clothing,34.28
+PROD0020,Scarf,Clothing,12.21
+PROD0021,Coffee Maker,Home & Kitchen,168.93
+PROD0022,Air Fryer,Home & Kitchen,143.78
+PROD0023,Blender,Home & Kitchen,60.62
+PROD0024,Toaster,Home & Kitchen,29.33
+PROD0025,Knife Set,Home & Kitchen,144.87
+PROD0026,Cutting Board,Home & Kitchen,23.46
+PROD0027,Mug Set,Home & Kitchen,18.25
+PROD0028,Storage Organizer,Home & Kitchen,24.84
+PROD0029,LED Desk Lamp,Home & Kitchen,80.09
+PROD0030,Throw Pillow,Home & Kitchen,42.17
+PROD0031,Yoga Mat,Sports,68.43
+PROD0032,Adjustable Dumbbells,Sports,159.46
+PROD0033,Resistance Bands,Sports,26.09
+PROD0034,Water Bottle,Sports,49.06
+PROD0035,Running Shoes,Sports,99.21
+PROD0036,Jump Rope,Sports,20.14
+PROD0037,Foam Roller,Sports,53.18
+PROD0038,Gym Bag,Sports,65.2
+PROD0039,Protein Shaker,Sports,31.54
+PROD0040,Fitness Tracker,Sports,99.28
+PROD0041,Python Programming,Books,41.14
+PROD0042,Data Science Handbook,Books,26.6
+PROD0043,ML Engineering Guide,Books,29.52
+PROD0044,Business Strategy,Books,25.81
+PROD0045,Self-Help Bestseller,Books,13.44
+PROD0046,Science Fiction Novel,Books,13.49
+PROD0047,Cook Book,Books,17.53
+PROD0048,World History,Books,25.51
+PROD0049,Travel Photography,Books,39.07
+PROD0050,Graphic Novel,Books,18.57
+PROD0051,Face Moisturizer,Beauty,39.06
+PROD0052,SPF Sunscreen,Beauty,19.96
+PROD0053,Lipstick Set,Beauty,19.34
+PROD0054,Foundation,Beauty,57.15
+PROD0055,Argan Shampoo,Beauty,29.44
+PROD0056,Hair Conditioner,Beauty,28.27
+PROD0057,Perfume,Beauty,50.54
+PROD0058,Eye Cream,Beauty,71.04
+PROD0059,Vitamin C Serum,Beauty,28.13
+PROD0060,Nail Polish Set,Beauty,16.35
+PROD0061,LEGO Creator Set,Toys,99.16
+PROD0062,Strategy Board Game,Toys,43.8
+PROD0063,1000-Piece Puzzle,Toys,26.71
+PROD0064,Action Figure,Toys,30.54
+PROD0065,Collectible Doll,Toys,52.93
+PROD0066,RC Racing Car,Toys,74.32
+PROD0067,Card Game Pack,Toys,11.89
+PROD0068,Art & Craft Kit,Toys,13.06
+PROD0069,Science Experiment Kit,Toys,27.62
+PROD0070,Plush Stuffed Animal,Toys,16.69
+PROD0071,Whey Protein Bar,Food & Grocery,22.38
+PROD0072,Premium Coffee Beans,Food & Grocery,43.12
+PROD0073,Matcha Green Tea,Food & Grocery,31.91
+PROD0074,Granola Mix,Food & Grocery,13.35
+PROD0075,Extra Virgin Olive Oil,Food & Grocery,26.39
+PROD0076,Artisan Pasta,Food & Grocery,10.93
+PROD0077,Mixed Nuts Pack,Food & Grocery,37.44
+PROD0078,Raw Honey,Food & Grocery,18.09
+PROD0079,Multivitamins,Food & Grocery,20.74
+PROD0080,Healthy Snack Box,Food & Grocery,23.63
